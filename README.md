@@ -23,7 +23,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-![](./q212312.png)
+![](./q2.png)
 
 ---
 
